@@ -4,7 +4,7 @@ A Power BI dashboard analyzing Sweden's economic growth and standing among Nordi
 
 ## Objective
 
-Provide in-depth analysis of Sweden's current and historic levels of economic growth using key indicators like GDP, inflation, and cost of living — and assess how Sweden stacks up against other Nordic countries and EU benchmarks.
+Provide in-depth analysis of Sweden's current and historic levels of economic growth using key indicators like GDP, inflation, and cost of living and assess how Sweden stacks up against other Nordic countries and EU benchmarks.
 
 ## Data
 
@@ -36,8 +36,8 @@ Data from the World Bank was modeled and visualized across a multitude of chart 
 **2. Sweden Economics Deep Dive**
 - Average GDP growth vs. average inflation (combo chart)
 - Average government revenue vs. average government expense (area chart)
-- GDP per capita — card
-- Purchasing power — card
+- GDP per capita as card
+- Purchasing power as card
 - Public debt (% of GDP) by year (line chart)
 - Year slicer for interactive filtering
 
